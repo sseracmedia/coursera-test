@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+#nav-list > li {
+    text-align: center;
+}
+
+div section {
+    margin: 10px;
+    padding: 10px;
+}
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header, .navbar-default{
+    background-color: black;
+}
+#section-1{
+    background-color: #CBD6DB;
+}
+
+#section-2 {
+    background-color: #CCAFC1;
+}
+
+#section-3 {
+    background-color: #FFAA80;
+}
+
+#text > h3 {
+    margin-bottom: 15px;
+}
+
+#header-nav .navbar-brand {
+    color: white;
+    position: absolute;
+    left: 10px;
+}
+
+#header-nav a{
+    color: white;
+}
